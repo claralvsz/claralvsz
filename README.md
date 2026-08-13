@@ -248,15 +248,11 @@ Projeto focado em transformar diagnósticos e dados educacionais em uma experiê
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/clara-vitoria-alves-nogueira-308902397">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
-<a href="https://www.instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4FA3"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:claralvesnogueira@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
