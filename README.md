@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=FF4FA3&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!;%3E+Design+%2B+Code;%3E+Ideas+into+Interfaces;%3E+Always+Learning..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Design+%2B+Code;Ideas+into+Interfaces;Always+Learning..." alt="Typing Animation">
 
 </div>
 
